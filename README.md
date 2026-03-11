@@ -40,7 +40,7 @@
   <table exchange>
     <tr>
       <td width="33.3%" align="center">
-        <img src="https://via.placeholder.com/400x400.png?text=Image+1" width="100%" style="border-radius:10px;"/><br/>
+        <img src="ANIME-PICTURES.NET_-_831225-1500x1500-girls+band+cry-toei+animation-awa+subaru-ttc-single-long+hair.jpg" width="100%" style="border-radius:10px;"/><br/>
         <sub><b>Memory 01</b></sub>
       </td>
       <td width="33.3%" align="center">
