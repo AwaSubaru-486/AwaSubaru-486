@@ -48,8 +48,8 @@
         <sub><b></b></sub>
       </td>
       <td width="33.3%" align="center">
-        <img src="https://via.placeholder.com/400x400.png?text=Image+3" width="100%" style="border-radius:10px;"/><br/>
-        <sub><b>Memory 03</b></sub>
+        <img src="07287bd322e0c5f2d185f330152228d2_bp.avif" width="100%" style="border-radius:10px;"/><br/>
+        <sub><b></b></sub>
       </td>
     </tr>
     <tr>
