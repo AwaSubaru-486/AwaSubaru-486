@@ -41,11 +41,11 @@
     <tr>
       <td width="33.3%" align="center">
         <img src="ANIME-PICTURES.NET_-_831225-1500x1500-girls+band+cry-toei+animation-awa+subaru-ttc-single-long+hair.jpg" width="100%" style="border-radius:10px;"/><br/>
-        <sub><b>Memory 01</b></sub>
+        <sub><b></b></sub>
       </td>
       <td width="33.3%" align="center">
-        <img src="https://via.placeholder.com/400x400.png?text=Image+2" width="100%" style="border-radius:10px;"/><br/>
-        <sub><b>Memory 02</b></sub>
+        <img src="88bd8156d2fa1764def6c7c487476243_lp.avif" width="100%" style="border-radius:10px;"/><br/>
+        <sub><b></b></sub>
       </td>
       <td width="33.3%" align="center">
         <img src="https://via.placeholder.com/400x400.png?text=Image+3" width="100%" style="border-radius:10px;"/><br/>
