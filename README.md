@@ -62,8 +62,8 @@
         <sub><b></b></sub>
       </td>
       <td width="33.3%" align="center">
-        <img src="https://via.placeholder.com/400x400.png?text=Image+6" width="100%" style="border-radius:10px;"/><br/>
-        <sub><b>Memory 06</b></sub>
+        <img src="5d4b15a89bb6318d3ec403220f341a96_bp.avif" width="100%" style="border-radius:10px;"/><br/>
+        <sub><b></b></sub>
       </td>
     </tr>
   </table>
